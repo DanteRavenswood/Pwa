@@ -1,0 +1,21 @@
+{
+  "name": "EcoProf",
+  "short_name": "EcoProf",
+  "description": "Aplicativo EcoProf - Conscientização Ambiental",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#546c4a",
+  "icons": [
+    {
+      "src": "https://github.com/luanzinho0fc/feira-de-ciencias/blob/main/LogoMakerCa-1745319933968.png?raw=true",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://github.com/luanzinho0fc/feira-de-ciencias/blob/main/LogoMakerCa-1745319933968.png?raw=true",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
