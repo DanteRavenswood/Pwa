@@ -8,12 +8,12 @@
   "theme_color": "#546c4a",
   "icons": [
     {
-      "src": "https://github.com/luanzinho0fc/feira-de-ciencias/blob/main/LogoMakerCa-1745319933968.png?raw=true",
+      "src": "/logo.png", 
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://github.com/luanzinho0fc/feira-de-ciencias/blob/main/LogoMakerCa-1745319933968.png?raw=true",
+      "src": "/logo.png",  
       "sizes": "512x512",
       "type": "image/png"
     }
